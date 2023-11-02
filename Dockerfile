@@ -1,4 +1,4 @@
-FROM canyan/janus-gateway:0.10.7
+FROM canyan/janus-gateway:master
 
 # Install dependencies
 RUN apt update -y
