@@ -6,9 +6,9 @@ Docker Image with Janus Gateway FFmpeg and some extras.
 ```bash
 docker build .
 ```
-### Pulling from `DockerHub`:
+### Pulling from `GitHub Container Registry`:
 ```
-docker pull eerikas/aalto-janus-template
+docker pull ghcr.io/eerikas/aalto-janus-template
 ```
 
 ## FFmpeg Access
